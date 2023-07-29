@@ -1,4 +1,4 @@
-# dank.pls - JailBreakGUI
+# JailBreakGUI
 An optimized GUI script for the JailBreak game, open source project.
 
 The script uses as the language of programming the Luau, Lua 5.1 derivative compatible with RobloxEngine API.
